@@ -1,6 +1,6 @@
 Scripts for automatically cleaning and editing open source geospatial data
 
-<b>List of Scripts</b>
+<b>Order of Scripts</b>
 
 <b>Detroit Data</b>
 
