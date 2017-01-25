@@ -1,0 +1,2442 @@
+[INFO  - 2016-07-06T20:23:56.373Z] GhostDriver - Main - running on port 52326
+[INFO  - 2016-07-06T20:23:56.423Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2016-07-06T20:23:56.423Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.customHeaders:  - {}
+[INFO  - 2016-07-06T20:23:56.423Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.10 (Yosemite)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2016-07-06T20:23:56.423Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 90854cb0-43b7-11e6-a4ee-73a959a917be
+[ERROR - 2016-07-06T20:23:58.220Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:23:58.220Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:01.479Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:01.479Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:03.256Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:03.256Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:04.917Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:04.917Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compac[INFO  - 2016-07-06T20:25:58.345Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-06T20:25:58.347Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session '2673fab0-43b7-11e6-b9fc-dde37c3affd2', because windowless
+4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:11.959Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:11.961Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:13.700Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:13.700Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:15.391Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:15.391Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:16.987Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:16.987Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:18.581Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:18.581Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:20.564Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:20.564Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:24.212Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:24.212Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:27.026Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:27.028Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:28.745Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:28.746Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:30.606Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:30.606Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:32.367Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:32.367Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:34.142Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:34.142Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:36.201Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:36.202Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:39.069Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:39.069Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:44.613Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:44.615Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:46.237Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:46.237Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:47.931Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:47.931Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:49.428Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:49.428Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:52.865Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:52.866Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:56.029Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:24:56.031Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:25:03.076Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1467836703039
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:25:15.389Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1467836715376
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:25:22.645Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: XHR Error: undefined undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:25:22.645Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  _reportXhrError (http://d1iq7pbacwn5rb.cloudfront.net/composer-ui/assets/scripts/composer-ui.min.js:7)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:25:31.473Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1467836731436
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:25:42.562Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1467836742555
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:25:52.904Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1467836752867
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:04.730Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1467836764670
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:16.812Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1467836776782
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:27.732Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1467836787704
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:43.927Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:43.927Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:43.928Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:43.928Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:45.729Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:45.730Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:45.730Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:45.731Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:47.448Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:47.448Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:47.448Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:47.448Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:49.271Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:49.271Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:49.272Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:49.272Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:52.039Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:52.039Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:52.040Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:52.040Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:57.391Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:57.391Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:57.391Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:57.391Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:59.205Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:59.205Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:59.206Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:59.206Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:59.206Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:59.206Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:59.206Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:59.206Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:59.207Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:59.207Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:59.207Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:26:59.207Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:01.469Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:01.469Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:01.470Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:01.470Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:01.470Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:01.470Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:01.470Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:01.470Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:01.470Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:01.471Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:01.471Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:01.471Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:03.187Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:03.187Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:03.187Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:03.188Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:03.188Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:03.188Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:03.188Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:03.188Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:03.188Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:03.188Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:03.189Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:03.189Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:05.298Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:05.299Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:05.299Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:05.299Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:05.299Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:05.299Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:05.299Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:05.299Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:05.300Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:05.300Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:05.300Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:27:05.300Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:19.093Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:19.093Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:21.739Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:21.739Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:24.519Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:24.520Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:26.805Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:26.805Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:28.372Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:28.372Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:30.060Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:30.060Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:31.926Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:31.926Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:37.002Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:37.002Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:43.975Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:43.975Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:47.936Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:47.936Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:49.662Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:49.662Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2016-07-06T20:28:56.418Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-07-06T20:28:56.911Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:56.911Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:56.912Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:56.912Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:56.912Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:56.912Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:56.912Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:56.912Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:59.198Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:59.198Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:59.198Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:59.198Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:59.198Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:59.199Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:59.199Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:28:59.199Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:00.930Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:00.930Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:00.930Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:00.930Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:00.931Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:00.931Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:00.931Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:00.931Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:02.711Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:02.711Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:02.711Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:02.711Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:02.712Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:02.712Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:02.712Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:02.712Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:04.343Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:04.343Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:04.344Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:04.344Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:04.344Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:04.344Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:04.345Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:04.345Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:06.781Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:06.781Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:06.781Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:06.782Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:06.782Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:06.782Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:06.782Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:06.782Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:12.039Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:12.039Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:12.040Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:12.040Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:12.040Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:12.040Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:12.041Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:12.041Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:14.197Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:14.197Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:14.198Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:14.198Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:14.198Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:14.198Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:14.199Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:14.199Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:15.859Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:15.860Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:15.860Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:15.860Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:15.860Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:15.860Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:15.861Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:15.861Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:17.587Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:17.588Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:17.588Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:17.588Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:17.588Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:17.588Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:17.589Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:17.589Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:19.945Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:19.945Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:19.946Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:19.946Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:19.946Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:19.946Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:19.947Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:19.947Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:56.260Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:56.261Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:56.261Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:56.261Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:56.262Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:56.262Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:56.263Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:56.263Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:58.309Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:58.310Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:58.310Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:58.310Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:58.310Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:58.310Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:58.311Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:58.311Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:59.842Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:59.843Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:59.843Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:59.843Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:59.843Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:59.843Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:59.844Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:29:59.844Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:01.554Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:01.554Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:01.555Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:01.555Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:01.555Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:01.555Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:01.555Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:01.555Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:03.390Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:03.390Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:03.390Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:03.391Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:03.391Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:03.391Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:03.391Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:03.391Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:05.019Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:05.019Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:05.019Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:05.019Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:05.019Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:05.019Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:05.020Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:05.020Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:07.518Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:07.518Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:07.518Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:07.518Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:07.518Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:07.519Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:07.519Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:07.519Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:12.288Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:12.288Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:12.289Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:12.289Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:12.289Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:12.289Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:12.289Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:12.289Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:14.041Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:14.041Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:14.041Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:14.041Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:14.042Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:14.042Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:14.042Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:14.042Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:15.674Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:15.674Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:15.674Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:15.674Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:15.675Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:15.675Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:15.675Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:15.675Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:17.425Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:17.425Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:17.425Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:17.425Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:17.425Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:17.426Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:17.426Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:17.426Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:19.440Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:19.440Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:19.440Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:19.440Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:19.440Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:19.440Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:19.441Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:19.441Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:21.873Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:21.873Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:21.873Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:21.873Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:21.873Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:21.873Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:21.874Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:21.874Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:26.890Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:26.890Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:26.891Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:26.891Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:26.891Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:26.891Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:26.891Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:26.891Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:28.547Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:28.547Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:28.547Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:28.547Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:28.548Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:28.548Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:28.548Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:28.548Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:33.703Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1467837033657
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:46.890Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1467837046839
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:30:59.762Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1467837059752
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:06.164Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:06.166Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:06.167Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:06.167Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:06.167Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:06.167Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:06.167Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:06.167Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:11.508Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1467837071484
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:17.484Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:17.484Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:17.485Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:17.485Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:17.485Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:17.485Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:17.485Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:17.486Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:22.717Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1467837082663
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:35.740Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1467837095713
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:43.944Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:43.944Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:43.944Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:43.944Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:43.945Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:43.945Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:43.945Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:43.945Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:46.117Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:46.117Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:46.117Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:46.118Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:46.118Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:46.118Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:46.119Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:46.119Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:47.863Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:47.863Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:47.864Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:47.864Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:47.864Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:47.864Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:47.865Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:47.865Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:31:53.000Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1467837112975
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:00.328Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:00.328Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:00.328Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:00.328Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:00.329Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:00.329Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:00.329Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:00.329Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:02.272Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:02.273Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:02.273Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:02.273Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:02.273Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:02.273Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:02.274Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:02.274Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:03.930Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:03.930Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:03.930Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:03.930Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:03.931Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:03.931Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:03.931Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:03.931Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:05.727Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:05.728Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:05.728Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:05.729Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:05.729Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:05.729Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:05.730Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:05.730Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:07.936Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:07.937Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:07.937Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:07.937Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:07.937Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:07.937Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:07.938Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:07.938Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:11.190Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:11.190Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:11.191Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:11.191Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:11.191Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:11.191Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:11.192Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:11.192Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:14.039Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:14.039Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:14.039Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:14.039Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:14.040Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:14.040Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:14.040Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:14.040Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:16.030Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:16.030Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:16.030Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:16.031Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:16.031Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:16.031Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:16.032Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:16.032Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:17.799Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:17.799Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:17.799Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:17.799Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:17.800Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:17.800Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:17.800Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:17.800Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:19.482Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:19.482Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:19.482Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:19.482Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:19.483Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:19.483Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:19.483Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:19.483Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:21.093Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:21.094Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:21.094Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:21.094Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:21.094Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:21.094Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:21.095Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:21.095Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:23.746Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:23.747Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:23.747Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:23.747Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:23.747Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:23.747Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:23.748Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:23.748Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:29.997Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:29.997Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:29.997Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:29.998Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:29.998Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:29.998Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:29.998Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:32:29.998Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:33:06.250Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1467837186200
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:33:16.223Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:33:16.225Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:33:16.226Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:33:16.226Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:33:16.226Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:33:16.226Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:33:16.226Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:33:16.227Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:33:17.795Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:33:17.795Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:33:17.796Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:33:17.796Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:33:17.796Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:33:17.796Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:33:17.796Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:33:17.796Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:33:22.159Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:33:22.159Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:33:22.160Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:33:22.160Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:33:22.160Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:33:22.160Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:33:22.160Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:33:22.161Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:33:27.616Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1467837207586
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:33:39.509Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: XHR Error: undefined undefined
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:33:39.511Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  _reportXhrError (http://d1iq7pbacwn5rb.cloudfront.net/composer-ui/assets/scripts/composer-ui.min.js:7)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2016-07-06T20:33:56.528Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2016-07-06T20:34:03.980Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:03.980Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:03.981Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:03.981Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:05.859Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:05.859Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:05.860Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:05.860Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:07.601Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:07.601Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:07.601Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:07.602Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:10.060Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:10.060Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:10.060Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:10.061Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:12.504Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:12.505Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:12.506Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:12.506Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:16.990Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:16.990Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:16.991Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:16.991Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:18.692Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:18.692Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:18.693Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:18.693Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:20.509Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:20.509Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:20.509Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:20.509Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:22.326Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:22.327Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:22.327Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:22.327Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:24.401Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:24.402Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:24.402Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:24.402Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:24.402Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:24.402Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:24.403Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:24.403Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:31.785Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:31.785Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:31.786Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:31.786Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:31.786Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:31.786Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:31.787Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:31.787Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:33.420Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:33.420Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:33.420Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:33.420Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:33.421Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:33.421Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:33.421Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:33.421Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:35.458Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:35.458Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:35.458Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:35.458Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:35.459Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:35.459Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:35.459Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:35.459Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:37.454Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:37.454Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:37.454Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:37.454Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:37.455Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:37.455Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:37.455Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:37.455Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:39.152Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:39.152Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:39.153Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:39.153Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:39.153Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:39.153Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:39.153Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:39.153Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:45.559Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:45.559Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:45.560Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:45.560Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:45.560Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:45.560Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:45.560Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:45.560Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:47.126Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:47.126Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:47.127Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:47.127Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:47.127Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:47.127Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:47.127Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:47.127Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:48.826Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:48.826Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:48.826Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:48.826Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:48.826Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:48.827Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:48.827Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:48.827Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:50.430Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:50.430Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:50.430Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:50.430Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:50.430Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:50.430Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:50.431Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:50.431Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:52.083Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:52.083Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:52.083Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:52.083Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:52.083Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:52.083Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:52.084Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:52.084Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:53.841Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:53.841Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:53.842Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:53.842Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:53.842Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:53.842Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:53.842Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:53.843Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:56.413Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:56.413Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:56.413Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:56.413Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:56.414Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:56.414Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:56.414Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:34:56.414Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:35:01.006Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:35:01.006Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:35:01.006Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:35:01.007Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:35:01.007Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:35:01.007Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:35:01.007Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:35:01.007Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:35:02.704Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:35:02.704Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:35:02.704Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:35:02.704Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:35:02.704Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:35:02.704Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:35:02.705Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - msg: Error: scriptError
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:35:02.705Z] Session [90854cb0-43b7-11e6-a4ee-73a959a917be] - page.onError - stack:
+  (anonymous function) (http://js.arcgis.com/3.13compact/init.js:41)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:35:07.842Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1467837307822
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2016-07-06T20:35:19.927Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1467837319905
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2016-07-06T20:38:57.345Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2016-07-06T20:38:57.346Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session '90854cb0-43b7-11e6-a4ee-73a959a917be', because windowless

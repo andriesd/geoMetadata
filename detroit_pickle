@@ -1,0 +1,1881 @@
+(lp0
+S'UUID'
+p1
+aS'id'
+p2
+aS'NEW_title'
+p3
+aS'NEW_abstract'
+p4
+aS'NEW_keywords_theme'
+p5
+aS'NEW_keywords_place'
+p6
+aS'NEW_topic_categories'
+p7
+aS'NEW_link_download'
+p8
+aS'NEW_link_information'
+p9
+aS'NEW_link_service_esri'
+p10
+aS'NEW_link_service_wms'
+p11
+aS'NEW_distribution_format'
+p12
+aS'NEW_date_publication'
+p13
+aS'NEW_date_revision'
+p14
+aS'originator'
+p15
+aS'publisher'
+p16
+aS'datasetURI'
+p17
+a.(lp0
+(lp1
+S'b21ab714-41fd-451f-8300-a3c8f64785e8'
+p2
+aS'840921'
+p3
+aS'Jefferson Chalmers'
+p4
+aS''
+p5
+ag5
+aS'Detroit, Michigan'
+p6
+ag5
+ag5
+ag5
+ag5
+ag5
+aS'Shapefile shapefile'
+p7
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p8
+aS'Jefferson Chalmers'
+p9
+aa(lp10
+S'14fad12f-12c4-430c-831f-27df6e28dca0'
+p11
+aS'840922'
+p12
+aS'InnovationDistrict'
+p13
+ag5
+ag5
+aS'Detroit, Michigan'
+p14
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/vfqv-c584?method=export&format=Shapefile'
+p15
+aS'https://data.detroitmi.gov/Government/Innovation-District/vfqv-c584'
+p16
+ag5
+ag5
+aS'Shapefile shapefile'
+p17
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p18
+aS'InnovationDistrict'
+p19
+aa(lp20
+S'3cebd56f-06d8-4676-b14d-eaf4d8b4ed6c'
+p21
+aS'840923'
+p22
+aS'House2011'
+p23
+ag5
+ag5
+aS'Detroit, Michigan'
+p24
+ag5
+ag5
+ag5
+ag5
+ag5
+aS'Shapefile shapefile'
+p25
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p26
+aS'House2011'
+p27
+aa(lp28
+S'4a89e206-5650-4dd8-a55a-421ae679c3dc'
+p29
+aS'840916'
+p30
+aS'Near East Side'
+p31
+ag5
+ag5
+aS'Detroit, Michigan'
+p32
+ag5
+ag5
+ag5
+ag5
+ag5
+aS'Shapefile shapefile'
+p33
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p34
+aS'Near East Side'
+p35
+aa(lp36
+S'477302f5-763a-4e4c-a127-6afaa8e95390'
+p37
+aS'840917'
+p38
+aS'MorningSide EEV'
+p39
+ag5
+ag5
+aS'Detroit, Michigan'
+p40
+ag5
+ag5
+ag5
+ag5
+ag5
+aS'Shapefile shapefile'
+p41
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p42
+aS'MorningSide EEV'
+p43
+aa(lp44
+S'828368f5-3bec-41cb-9433-b5be478a5a2e'
+p45
+aS'840918'
+p46
+aS'MajorStreetNames'
+p47
+ag5
+ag5
+aS'Detroit, Michigan'
+p48
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/w6n5-qfqz?method=export&format=Shapefile'
+p49
+aS'https://data.detroitmi.gov/Transportation/Major-Street-Names/w6n5-qfqz'
+p50
+ag5
+ag5
+aS'Shapefile shapefile'
+p51
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p52
+aS'MajorStreetNames'
+p53
+aa(lp54
+S'3b8593f6-796c-4522-af52-e06df686e369'
+p55
+aS'840919'
+p56
+aS'LocHistDist_2016_region'
+p57
+ag5
+ag5
+aS'Detroit, Michigan'
+p58
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/hj4t-4mea?method=export&format=Shapefile'
+p59
+aS'https://data.detroitmi.gov/Government/Local-Historic-Districts/hj4t-4mea'
+p60
+ag5
+ag5
+aS'Shapefile shapefile'
+p61
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p62
+aS'LocHistDist_2016_region'
+p63
+aa(lp64
+S'393b59f4-8e2a-4db5-884a-f99f14c08d41'
+p65
+aS'840912'
+p66
+aS'Northwest'
+p67
+ag5
+ag5
+aS'Detroit, Michigan'
+p68
+ag5
+ag5
+ag5
+ag5
+ag5
+aS'Shapefile shapefile'
+p69
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p70
+aS'Northwest'
+p71
+aa(lp72
+S'c7f77f97-9c74-40c0-ba19-a45e30fe5a63'
+p73
+aS'840913'
+p74
+aS'Northend'
+p75
+ag5
+ag5
+aS'Detroit, Michigan'
+p76
+ag5
+ag5
+ag5
+ag5
+ag5
+aS'Shapefile shapefile'
+p77
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p78
+aS'Northend'
+p79
+aa(lp80
+S'743203f2-f5b8-4958-bf9b-00c6d9354979'
+p81
+aS'840914'
+p82
+aS'NonMotorized_routes'
+p83
+ag5
+ag5
+aS'Detroit, Michigan'
+p84
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/g6eq-mhyv?method=export&format=Shapefile'
+p85
+aS'https://data.detroitmi.gov/Transportation/Non-motorized-Routes/g6eq-mhyv'
+p86
+ag5
+ag5
+aS'Shapefile shapefile'
+p87
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p88
+aS'NonMotorized_routes'
+p89
+aa(lp90
+S'3c1566fe-621c-4079-84fa-dd5bda1cd541'
+p91
+aS'840915'
+p92
+aS'New_DPDPrecincts'
+p93
+ag5
+ag5
+aS'Detroit, Michigan'
+p94
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/jw8v-3bxg?method=export&format=Shapefile'
+p95
+aS'https://data.detroitmi.gov/Public-Safety/DPD-Precincts/jw8v-3bxg'
+p96
+ag5
+ag5
+aS'Shapefile shapefile'
+p97
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p98
+aS'New_DPDPrecincts'
+p99
+aa(lp100
+S'ac216fa3-78c5-4f5c-b67b-c7a10b8ec421'
+p101
+aS'840940'
+p102
+aS'Congress2011'
+p103
+ag5
+ag5
+aS'Detroit, Michigan'
+p104
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/3tj4-bdqn?method=export&format=Shapefile'
+p105
+aS'https://data.detroitmi.gov/Government/2011-Congressional-Districts/3tj4-bdqn'
+p106
+ag5
+ag5
+aS'Shapefile shapefile'
+p107
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p108
+aS'Congress2011'
+p109
+aa(lp110
+S'a958a0ec-4765-41dd-a772-2371d67247a7'
+p111
+aS'840941'
+p112
+aS'Conant Gardens'
+p113
+ag5
+ag5
+aS'Detroit, Michigan'
+p114
+ag5
+ag5
+ag5
+ag5
+ag5
+aS'Shapefile shapefile'
+p115
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p116
+aS'Conant Gardens'
+p117
+aa(lp118
+S'71cc0d72-4984-465f-9a57-89ebc577cdf2'
+p119
+aS'840942'
+p120
+aS'CollUniv'
+p121
+ag5
+ag5
+aS'Detroit, Michigan'
+p122
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/y2eq-n4p8?method=export&format=Shapefile'
+p123
+aS'https://data.detroitmi.gov/Education/Colleges-and-Universities/y2eq-n4p8'
+p124
+ag5
+ag5
+aS'Shapefile shapefile'
+p125
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p126
+aS'CollUniv'
+p127
+aa(lp128
+S'21bc1a27-ef0d-4ad3-aec4-64653f16629e'
+p129
+aS'840943'
+p130
+aS'Child_Care_Providers'
+p131
+ag5
+ag5
+aS'Detroit, Michigan'
+p132
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/9ssd-ypf9?method=export&format=Shapefile'
+p133
+aS'https://data.detroitmi.gov/Children-Families/Child-Care-Providers/9ssd-ypf9'
+p134
+ag5
+ag5
+aS'Shapefile shapefile'
+p135
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p136
+aS'Child_Care_Providers'
+p137
+aa(lp138
+S'e5657631-062b-477f-bc3b-636ef2c5f8cf'
+p139
+aS'840936'
+p140
+aS'Detroit_MGFv7b'
+p141
+ag5
+ag5
+aS'Detroit, Michigan'
+p142
+ag5
+ag5
+ag5
+ag5
+ag5
+aS'Shapefile shapefile'
+p143
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p144
+aS'Detroit_MGFv7b'
+p145
+aa(lp146
+S'3616c448-f32e-4a47-a3e8-b876016bdf38'
+p147
+aS'840937'
+p148
+aS'DDOT_Rte_2016_01'
+p149
+ag5
+ag5
+aS'Detroit, Michigan'
+p150
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/kwh5-7vt7?method=export&format=Shapefile'
+p151
+aS'https://data.detroitmi.gov/Transportation/2016-DDOT-Bus-Routes/kwh5-7vt7'
+p152
+ag5
+ag5
+aS'Shapefile shapefile'
+p153
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p154
+aS'DDOT_Rte_2016_01'
+p155
+aa(lp156
+S'c291d96c-96ea-4d2c-9aeb-603aa1798200'
+p157
+aS'840938'
+p158
+aS'Current_Master_Plan_Future_General_Land_Use'
+p159
+ag5
+ag5
+aS'Detroit, Michigan'
+p160
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/89q2-aduf?method=export&format=Shapefile'
+p161
+aS'https://data.detroitmi.gov/Property-Parcels/Current-Master-Plan-Future-General-Land-Use/89q2-aduf'
+p162
+ag5
+ag5
+aS'Shapefile shapefile'
+p163
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p164
+aS'Current_Master_Plan_Future_General_Land_Use'
+p165
+aa(lp166
+S'a49a2408-990f-40db-bc61-3ffc29fa5ccc'
+p167
+aS'840939'
+p168
+aS'CouncilDistricts'
+p169
+ag5
+ag5
+aS'Detroit, Michigan'
+p170
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/4vse-9zps?method=export&format=Shapefile'
+p171
+aS'https://data.detroitmi.gov/Government/City-Council-Districts/4vse-9zps'
+p172
+ag5
+ag5
+aS'Shapefile shapefile'
+p173
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p174
+aS'CouncilDistricts'
+p175
+aa(lp176
+S'a3f77bf5-7d73-484b-8dae-502aa51063e5'
+p177
+aS'840932'
+p178
+aS'DPSSites_pts'
+p179
+ag5
+ag5
+aS'Detroit, Michigan'
+p180
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/h8ij-tu87?method=export&format=Shapefile'
+p181
+aS'https://data.detroitmi.gov/Education/Detroit-Public-School-Locations/h8ij-tu87'
+p182
+ag5
+ag5
+aS'Shapefile shapefile'
+p183
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p184
+aS'DPSSites_pts'
+p185
+aa(lp186
+S'dc2175fe-d73c-4be4-8077-a32469241dc7'
+p187
+aS'840933'
+p188
+aS'DPM'
+p189
+ag5
+ag5
+aS'Detroit, Michigan'
+p190
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/qyik-3ame?method=export&format=Shapefile'
+p191
+aS'https://data.detroitmi.gov/Transportation/Detroit-People-Mover-Route/qyik-3ame'
+p192
+ag5
+ag5
+aS'Shapefile shapefile'
+p193
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p194
+aS'DPM'
+p195
+aa(lp196
+S'47beec45-d817-4f38-abf3-804c80e615d4'
+p197
+aS'840934'
+p198
+aS'DPD_SCA'
+p199
+ag5
+ag5
+aS'Detroit, Michigan'
+p200
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/pnwk-yivg?method=export&format=Shapefile'
+p201
+aS'https://data.detroitmi.gov/Public-Safety/DPD-Scout-Car-Areas/pnwk-yivg'
+p202
+ag5
+ag5
+aS'Shapefile shapefile'
+p203
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p204
+aS'DPD_SCA'
+p205
+aa(lp206
+S'750b2c2f-79f2-4fae-8961-8e7565a19147'
+p207
+aS'840935'
+p208
+aS'Detroit_Schools_Fall_2014'
+p209
+ag5
+ag5
+aS'Detroit, Michigan'
+p210
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/2wta-ex2w?method=export&format=Shapefile'
+p211
+aS'https://data.detroitmi.gov/Education/Detroit-Schools/2wta-ex2w'
+p212
+ag5
+ag5
+aS'Shapefile shapefile'
+p213
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p214
+aS'Detroit_Schools_Fall_2014'
+p215
+aa(lp216
+S'b624b8f0-3729-479e-a30b-28fbce9a7627'
+p217
+aS'840928'
+p218
+aS'Far East Side'
+p219
+ag5
+ag5
+aS'Detroit, Michigan'
+p220
+ag5
+ag5
+ag5
+ag5
+ag5
+aS'Shapefile shapefile'
+p221
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p222
+aS'Far East Side'
+p223
+aa(lp224
+S'27c76e46-6374-46a8-9bee-01e89e0bf830'
+p225
+aS'840929'
+p226
+aS'ElectionDistricts'
+p227
+ag5
+ag5
+aS'Detroit, Michigan'
+p228
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/fsbf-9tct?method=export&format=Shapefile'
+p229
+aS'https://data.detroitmi.gov/Government/Election-Districts/fsbf-9tct'
+p230
+ag5
+ag5
+aS'Shapefile shapefile'
+p231
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p232
+aS'ElectionDistricts'
+p233
+aa(lp234
+S'91f4be1a-68c3-4d96-a4e8-a1110b5cd7f0'
+p235
+aS'840930'
+p236
+aS'Eastern Market'
+p237
+ag5
+ag5
+aS'Detroit, Michigan'
+p238
+ag5
+ag5
+ag5
+ag5
+ag5
+aS'Shapefile shapefile'
+p239
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p240
+aS'Eastern Market'
+p241
+aa(lp242
+S'dbc02f0d-6450-4be8-959e-9ac6f3651b9a'
+p243
+aS'840931'
+p244
+aS'DPSSites'
+p245
+ag5
+ag5
+aS'Detroit, Michigan'
+p246
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/ipa4-scig?method=export&format=Shapefile'
+p247
+aS'https://data.detroitmi.gov/Education/Detroit-Public-Schools-Sites/ipa4-scig'
+p248
+ag5
+ag5
+aS'Shapefile shapefile'
+p249
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p250
+aS'DPSSites'
+p251
+aa(lp252
+S'0d24acde-c4b1-44e3-87d1-95993bd6ab06'
+p253
+aS'840956'
+p254
+aS'2015_NonFatal_Shootings'
+p255
+ag5
+ag5
+aS'Detroit, Michigan'
+p256
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/p746-ctzn?method=export&format=Shapefile'
+p257
+aS'https://data.detroitmi.gov/Public-Safety/DPD-2015-Non-Fatal-Shooting-Offenses-Victims-Confi/p746-ctzn'
+p258
+ag5
+ag5
+aS'Shapefile shapefile'
+p259
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p260
+aS'2015_NonFatal_Shootings'
+p261
+aa(lp262
+S'45389123-cb76-4567-a756-f1daf8a37cfe'
+p263
+aS'840957'
+p264
+aS'2015_Homicide_Offenses'
+p265
+ag5
+ag5
+aS'Detroit, Michigan'
+p266
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/9d8p-4k7v?method=export&format=Shapefile'
+p267
+aS'https://data.detroitmi.gov/Public-Safety/DPD-2015-Homicide-Offenses-Victims-Confirmed-Map/9d8p-4k7v'
+p268
+ag5
+ag5
+aS'Shapefile shapefile'
+p269
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p270
+aS'2015_Homicide_Offenses'
+p271
+aa(lp272
+S'19f2fcde-99c8-4b6e-8c94-98592058d781'
+p273
+aS'840958'
+p274
+aS'2015_Carjacking_Offenses'
+p275
+ag5
+ag5
+aS'Detroit, Michigan'
+p276
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/3q8r-442g?method=export&format=Shapefile'
+p277
+aS'https://data.detroitmi.gov/Public-Safety/DPD-2015-Carjacking-Offenses-Victims-Confirmed-Map/3q8r-442g'
+p278
+ag5
+ag5
+aS'Shapefile shapefile'
+p279
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p280
+aS'2015_Carjacking_Offenses'
+p281
+aa(lp282
+S'a3aa6588-903a-4187-b79c-75e8778c6fa7'
+p283
+aS'840961'
+p284
+aS'2012-04 Stop Activity'
+p285
+ag5
+ag5
+aS'Detroit, Michigan'
+p286
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/vapg-c9ea?method=export&format=Shapefile'
+p287
+aS'https://data.detroitmi.gov/Transportation/Weekday-Boarding-Alighting-Activity/vapg-c9ea'
+p288
+ag5
+ag5
+aS'Shapefile shapefile'
+p289
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p290
+aS'2012-04 Stop Activity'
+p291
+aa(lp292
+S'd058f602-2b00-4766-9f72-1b07d9ec23c6'
+p293
+aS'840908'
+p294
+aS'RecCen_ptsCopy'
+p295
+ag5
+ag5
+aS'Detroit, Michigan'
+p296
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/ku5j-w3uv?method=export&format=Shapefile'
+p297
+aS'https://data.detroitmi.gov/Fun/Recreation-Centers/ku5j-w3uv'
+p298
+ag5
+ag5
+aS'Shapefile shapefile'
+p299
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p300
+aS'RecCen_ptsCopy'
+p301
+aa(lp302
+S'87277774-ea8c-47d2-9470-9640ee4a0edd'
+p303
+aS'840909'
+p304
+aS'Parks_2016'
+p305
+ag5
+ag5
+aS'Detroit, Michigan'
+p306
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/yu9n-k8rd?method=export&format=Shapefile'
+p307
+aS'https://data.detroitmi.gov/Fun/Parks-2016/yu9n-k8rd'
+p308
+ag5
+ag5
+aS'Shapefile shapefile'
+p309
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p310
+aS'Parks_2016'
+p311
+aa(lp312
+S'3ad371f1-facc-4e88-bfc2-51f63914f81e'
+p313
+aS'840910'
+p314
+aS'PARCELS'
+p315
+ag5
+ag5
+aS'Detroit, Michigan'
+p316
+ag5
+ag5
+ag5
+ag5
+ag5
+aS'Shapefile shapefile'
+p317
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p318
+aS'PARCELS'
+p319
+aa(lp320
+S'b1ca9df0-d8b2-4537-9867-dff7894dcc8e'
+p321
+aS'840911'
+p322
+aS'Osborn'
+p323
+ag5
+ag5
+aS'Detroit, Michigan'
+p324
+ag5
+ag5
+ag5
+ag5
+ag5
+aS'Shapefile shapefile'
+p325
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p326
+aS'Osborn'
+p327
+aa(lp328
+S'32df5231-25d9-46cd-8323-229a0d288018'
+p329
+aS'840904'
+p330
+aS'Senate2011'
+p331
+ag5
+ag5
+aS'Detroit, Michigan'
+p332
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/h78i-46dc?method=export&format=Shapefile'
+p333
+aS'https://data.detroitmi.gov/Government/2011-State-Senate-Districts/h78i-46dc'
+p334
+ag5
+ag5
+aS'Shapefile shapefile'
+p335
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p336
+aS'Senate2011'
+p337
+aa(lp338
+S'7cf5baaf-521e-44e5-986a-ea945ecde859'
+p339
+aS'840905'
+p340
+aS'SecondaryNames'
+p341
+ag5
+ag5
+aS'Detroit, Michigan'
+p342
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/9zkf-xhz4?method=export&format=Shapefile'
+p343
+aS'https://data.detroitmi.gov/Transportation/Secondary-Street-Names/9zkf-xhz4'
+p344
+ag5
+ag5
+aS'Shapefile shapefile'
+p345
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p346
+aS'SecondaryNames'
+p347
+aa(lp348
+S'1c172671-954c-4783-ab7c-003d85d10429'
+p349
+aS'840906'
+p350
+aS'Russell Woods'
+p351
+ag5
+ag5
+aS'Detroit, Michigan'
+p352
+ag5
+ag5
+ag5
+ag5
+ag5
+aS'Shapefile shapefile'
+p353
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p354
+aS'Russell Woods'
+p355
+aa(lp356
+S'31d865aa-6213-466c-81bd-dee2bc505576'
+p357
+aS'840907'
+p358
+aS'Residential Thoroughfares2'
+p359
+ag5
+ag5
+aS'Detroit, Michigan'
+p360
+ag5
+ag5
+ag5
+ag5
+ag5
+aS'Shapefile shapefile'
+p361
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p362
+aS'Residential Thoroughfares2'
+p363
+aa(lp364
+S'1b1be2e7-da3f-480e-88d5-ee1544ff115e'
+p365
+aS'840900'
+p366
+aS'Virginia Park'
+p367
+ag5
+ag5
+aS'Detroit, Michigan'
+p368
+ag5
+ag5
+ag5
+ag5
+ag5
+aS'Shapefile shapefile'
+p369
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p370
+aS'Virginia Park'
+p371
+aa(lp372
+S'd92cc086-e526-4eca-964d-2d0596110b83'
+p373
+aS'840901'
+p374
+aS'ZONING'
+p375
+ag5
+ag5
+aS'Detroit, Michigan'
+p376
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/iecw-apwi?method=export&format=Shapefile'
+p377
+aS'https://data.detroitmi.gov/Government/Zoning-Map/iecw-apwi'
+p378
+ag5
+ag5
+aS'Shapefile shapefile'
+p379
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p380
+aS'ZONING'
+p381
+aa(lp382
+S'211237a6-455a-4b44-86eb-54b949a66338'
+p383
+aS'840902'
+p384
+aS'Southwest'
+p385
+ag5
+ag5
+aS'Detroit, Michigan'
+p386
+ag5
+ag5
+ag5
+ag5
+ag5
+aS'Shapefile shapefile'
+p387
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p388
+aS'Southwest'
+p389
+aa(lp390
+S'b002bc1f-ae08-49c2-8b61-518df32fd01a'
+p391
+aS'840903'
+p392
+aS'SMART_BUS_ROUTE_2014'
+p393
+ag5
+ag5
+aS'Detroit, Michigan'
+p394
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/agne-ypdd?method=export&format=Shapefile'
+p395
+aS'https://data.detroitmi.gov/Transportation/SMART-Bus-Routes/agne-ypdd'
+p396
+ag5
+ag5
+aS'Shapefile shapefile'
+p397
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p398
+aS'SMART_BUS_ROUTE_2014'
+p399
+aa(lp400
+S'82401886-9aef-41c3-8e70-54e2ffb55d33'
+p401
+aS'840896'
+p402
+aS'Zipcode'
+p403
+ag5
+ag5
+aS'Detroit, Michigan'
+p404
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/ruqh-3htk?method=export&format=Shapefile'
+p405
+aS'https://data.detroitmi.gov/Government/City-of-Detroit-Zip-Code-Boundaries/ruqh-3htk'
+p406
+ag5
+ag5
+aS'Shapefile shapefile'
+p407
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p408
+aS'Zipcode'
+p409
+aa(lp410
+S'd0b3a529-603b-44e7-a3e7-ad333738edbf'
+p411
+aS'840897'
+p412
+aS'Warrendale'
+p413
+ag5
+ag5
+aS'Detroit, Michigan'
+p414
+ag5
+ag5
+ag5
+ag5
+ag5
+aS'Shapefile shapefile'
+p415
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p416
+aS'Warrendale'
+p417
+aa(lp418
+S'362f5a64-8a14-423d-b19d-3d39f7378358'
+p419
+aS'840898'
+p420
+aS'UDM Marygrove'
+p421
+ag5
+ag5
+aS'Detroit, Michigan'
+p422
+ag5
+ag5
+ag5
+ag5
+ag5
+aS'Shapefile shapefile'
+p423
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p424
+aS'UDM Marygrove'
+p425
+aa(lp426
+S'7d839c41-601e-4947-9cb8-26ec8003c2e0'
+p427
+aS'840899'
+p428
+aS'TSigns_pts'
+p429
+ag5
+ag5
+aS'Detroit, Michigan'
+p430
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/nqdp-yans?method=export&format=Shapefile'
+p431
+aS'https://data.detroitmi.gov/Transportation/Traffic-Signs/nqdp-yans'
+p432
+ag5
+ag5
+aS'Shapefile shapefile'
+p433
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p434
+aS'TSigns_pts'
+p435
+aa(lp436
+S'0fb0f0c4-2c3d-4233-b4f4-255500917dd3'
+p437
+aS'840924'
+p438
+aS'Hard2Count'
+p439
+ag5
+ag5
+aS'Detroit, Michigan'
+p440
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/rdag-2fyy?method=export&format=Shapefile'
+p441
+aS'https://data.detroitmi.gov/Government/2010-Hard-To-Count-Sites/rdag-2fyy'
+p442
+ag5
+ag5
+aS'Shapefile shapefile'
+p443
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p444
+aS'Hard2Count'
+p445
+aa(lp446
+S'45ca18ac-5a48-435e-a56a-5bd08f3cdc30'
+p447
+aS'840925'
+p448
+aS'Grandmont Rosedale'
+p449
+ag5
+ag5
+aS'Detroit, Michigan'
+p450
+ag5
+ag5
+ag5
+ag5
+ag5
+aS'Shapefile shapefile'
+p451
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p452
+aS'Grandmont Rosedale'
+p453
+aa(lp454
+S'37d61f15-bcea-48f6-bd62-e7cf5b0625f2'
+p455
+aS'840926'
+p456
+aS'Freeways'
+p457
+ag5
+ag5
+aS'Detroit, Michigan'
+p458
+ag5
+ag5
+ag5
+ag5
+ag5
+aS'Shapefile shapefile'
+p459
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p460
+aS'Freeways'
+p461
+aa(lp462
+S'43b8339f-5cd1-481a-984c-fc1d5ace7026'
+p463
+aS'840927'
+p464
+aS'FreewayNames'
+p465
+ag5
+ag5
+aS'Detroit, Michigan'
+p466
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/63nh-ijfg?method=export&format=Shapefile'
+p467
+aS'https://data.detroitmi.gov/Transportation/Freeway-Names/63nh-ijfg'
+p468
+ag5
+ag5
+aS'Shapefile shapefile'
+p469
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p470
+aS'FreewayNames'
+p471
+aa(lp472
+S'2868ccdf-d396-4c63-aeb4-f4c1b084353e'
+p473
+aS'840920'
+p474
+aS'Libraries'
+p475
+ag5
+ag5
+aS'Detroit, Michigan'
+p476
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/exqw-7q3h?method=export&format=Shapefile'
+p477
+aS'https://data.detroitmi.gov/Education/Detroit-Public-Libraries/exqw-7q3h'
+p478
+ag5
+ag5
+aS'Shapefile shapefile'
+p479
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p480
+aS'Libraries'
+p481
+aa(lp482
+S'df130e46-3e1d-4316-adf7-a57bdc6d2479'
+p483
+aS'840959'
+p484
+aS'2014_NonFatal'
+p485
+ag5
+ag5
+aS'Detroit, Michigan'
+p486
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/4wuc-9ay9?method=export&format=Shapefile'
+p487
+aS'https://data.detroitmi.gov/Public-Safety/DPD-2014-Non-Fatal-Shooting-Offenses-Victims-Confi/4wuc-9ay9'
+p488
+ag5
+ag5
+aS'Shapefile shapefile'
+p489
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p490
+aS'2014_NonFatal'
+p491
+aa(lp492
+S'cfcbdc6d-2d6d-437a-810d-0b15a1b53576'
+p493
+aS'840952'
+p494
+aS'Blockgroup2000_MGFv7b'
+p495
+ag5
+ag5
+aS'Detroit, Michigan'
+p496
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/2u3u-mrvu?method=export&format=Shapefile'
+p497
+aS'https://data.detroitmi.gov/Government/2000-Census-Block-Groups/2u3u-mrvu'
+p498
+ag5
+ag5
+aS'Shapefile shapefile'
+p499
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p500
+aS'Blockgroup2000_MGFv7b'
+p501
+aa(lp502
+S'27323ffe-f03d-45d7-9b74-5e063d740a7f'
+p503
+aS'840953'
+p504
+aS'Aviation Sub'
+p505
+ag5
+ag5
+aS'Detroit, Michigan'
+p506
+ag5
+ag5
+ag5
+ag5
+ag5
+aS'Shapefile shapefile'
+p507
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p508
+aS'Aviation Sub'
+p509
+aa(lp510
+S'b1a5ecd8-5d33-4746-9794-f3adbf9492e3'
+p511
+aS'840954'
+p512
+aS'AllSignals_121415_2'
+p513
+ag5
+ag5
+aS'Detroit, Michigan'
+p514
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/dkav-a7rb?method=export&format=Shapefile'
+p515
+aS'https://data.detroitmi.gov/Transportation/Traffic-Signals/dkav-a7rb'
+p516
+ag5
+ag5
+aS'Shapefile shapefile'
+p517
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p518
+aS'AllSignals_121415_2'
+p519
+aa(lp520
+S'db475205-5d76-4653-bdf2-85fdda6ffeb4'
+p521
+aS'840955'
+p522
+aS'Airport_Points'
+p523
+ag5
+ag5
+aS'Detroit, Michigan'
+p524
+ag5
+ag5
+ag5
+ag5
+ag5
+aS'Shapefile shapefile'
+p525
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p526
+aS'Airport_Points'
+p527
+aa(lp528
+S'5c49b482-34ff-4ff7-9f93-6cf772a675dc'
+p529
+aS'840948'
+p530
+aS'Campau'
+p531
+ag5
+ag5
+aS'Detroit, Michigan'
+p532
+ag5
+ag5
+ag5
+ag5
+ag5
+aS'Shapefile shapefile'
+p533
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p534
+aS'Campau'
+p535
+aa(lp536
+S'429f8dcf-aede-46ea-baca-8e69405c3025'
+p537
+aS'840949'
+p538
+aS'BUS_STOP_DDOT_2014'
+p539
+ag5
+ag5
+aS'Detroit, Michigan'
+p540
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/h7tb-utv7?method=export&format=Shapefile'
+p541
+aS'https://data.detroitmi.gov/Transportation/DDOT-Bus-Stops/h7tb-utv7'
+p542
+ag5
+ag5
+aS'Shapefile shapefile'
+p543
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p544
+aS'BUS_STOP_DDOT_2014'
+p545
+aa(lp546
+S'c59fd71c-0fc5-4547-83af-6f86db925d51'
+p547
+aS'840950'
+p548
+aS'Boyton'
+p549
+ag5
+ag5
+aS'Detroit, Michigan'
+p550
+ag5
+ag5
+ag5
+ag5
+ag5
+aS'Shapefile shapefile'
+p551
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p552
+aS'Boyton'
+p553
+aa(lp554
+S'b8fd6ae9-875b-4a80-a636-0b9af4ccaf03'
+p555
+aS'840951'
+p556
+aS'Blockgroup2010'
+p557
+ag5
+ag5
+aS'Detroit, Michigan'
+p558
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/iguc-9tjj?method=export&format=Shapefile'
+p559
+aS'https://data.detroitmi.gov/Government/2010-Census-Block-Groups/iguc-9tjj'
+p560
+ag5
+ag5
+aS'Shapefile shapefile'
+p561
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p562
+aS'Blockgroup2010'
+p563
+aa(lp564
+S'cec9afa5-02a2-49cc-b84f-fa77762ca386'
+p565
+aS'840944'
+p566
+aS'Central Southwest'
+p567
+ag5
+ag5
+aS'Detroit, Michigan'
+p568
+ag5
+ag5
+ag5
+ag5
+ag5
+aS'Shapefile shapefile'
+p569
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p570
+aS'Central Southwest'
+p571
+aa(lp572
+S'48279762-31d2-4248-98ca-f17f056f1716'
+p573
+aS'840945'
+p574
+aS'CensusTracts2010'
+p575
+ag5
+ag5
+aS'Detroit, Michigan'
+p576
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/gx6d-7i83?method=export&format=Shapefile'
+p577
+aS'https://data.detroitmi.gov/Government/2010-Census-Tracts/gx6d-7i83'
+p578
+ag5
+ag5
+aS'Shapefile shapefile'
+p579
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p580
+aS'CensusTracts2010'
+p581
+aa(lp582
+S'b2a270e6-cfbd-4636-8f53-4ab5b0faf631'
+p583
+aS'840946'
+p584
+aS'CensusTract2000_MGFv7b'
+p585
+ag5
+ag5
+aS'Detroit, Michigan'
+p586
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/4b6s-3ev3?method=export&format=Shapefile'
+p587
+aS'https://data.detroitmi.gov/Government/2000-Census-Tracts/4b6s-3ev3'
+p588
+ag5
+ag5
+aS'Shapefile shapefile'
+p589
+ag5
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p590
+aS'CensusTract2000_MGFv7b'
+p591
+aa(lp592
+S'83539684-9a96-411c-8327-b92b72f929da'
+p593
+aS'840947'
+p594
+aS'CensusTract1990_MGFv7b'
+p595
+ag5
+ag5
+aS'Detroit, Michigan'
+p596
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/7rr3-avkc?method=export&format=Shapefile'
+p597
+aS'https://data.detroitmi.gov/Government/1990-Census-Tracts/7rr3-avkc'
+p598
+ag5
+ag5
+aS'Shapefile shapefile'
+p599
+aS'1/22/15'
+p600
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p601
+aS'CensusTract1990_MGFv7b'
+p602
+aa(lp603
+S'4af55fd3-406f-4522-a3b2-07bf627b8df9'
+p604
+aS'840960'
+p605
+aS'2014_Homicides'
+p606
+ag5
+ag5
+aS'Detroit, Michigan'
+p607
+ag5
+aS'https://data.detroitmi.gov/api/geospatial/6j9h-tiym?method=export&format=Shapefile'
+p608
+aS'https://data.detroitmi.gov/Public-Safety/DPD-2014-Homicide-Offenses-Victims-Confirmed-Map/6j9h-tiym'
+p609
+ag5
+ag5
+aS'Shapefile shapefile'
+p610
+aS'1/7/16'
+p611
+ag5
+ag5
+aS'City of Detroit Open Data Portal'
+p612
+aS'2014_Homicides'
+p613
+aa.(lp0
+S''
+p1
+aS'(none)'
+p2
+ag1
+ag1
+ag1
+aS'Major Thoroughfare Name Labels (large and small scale)'
+p3
+aS'(none)'
+p4
+ag1
+ag1
+aS'This map marks the general location of preferred corridors for non-motorized transportation routes, with an emphasis upon connecting residents with parks,  commercial activity centers or other attractions. These routes are not intended to identify right-of-ways; right-of-ways will need to be acquired or dedicated.'
+p5
+aS'Detroit Police Department precinct boundaries'
+p6
+aS'(none)'
+p7
+ag1
+aS'Colleges and Universities located in Detroit'
+p8
+aS"Locations of all Licensed and / or Registered childcare providers in Southeast Michigan from June 2014. Provided by the United Way of Southeast Michigan's Regional Resource Center. Contains information on whether a provider is a Head Start or Great Start Readiness provider, as well as the quality rating from Great Start to Quality if a provider participates. This data was exported to Data Driven Detroit by the United Way for SE Michigan. Data Driven Detroit added fields indicating whether a location was physically in Detroit, and also a single field indicating whether a provider paricipated in either Head Start, Great Start or Early Head Start. Locations of all Licensed and / or Registered childcare providers in Southeast Michigan from June 2014. Provided by the United Way of Southeast Michigan's Regional Resource Center, a partner of the Early Childhood Investment Corporation. Contains information on whether a provider is a Head Start or Great Start Readiness provider, as well as the quality rating from Great Start to Quality if a provider participates. This data was exported to Data Driven Detroit by the United Way for SE Michigan. Data Driven Detroit added fields indicating whether a location was physically in Detroit, and also a single field indicating whether a provider paricipated in either Head Start, Great Start or Early Head Start."
+p9
+ag1
+aS'Detroit Department of Transportation Routing System for the January 23, 2016 Schedule'
+p10
+aS'The following field definitions make up the shapefile attribute table called Master Plan of Policies Future General Land Use Map for City of Detroit adopted in 2009. This shapefile consists of all areas in the city defined with the Master Plan of Policies Future General Land Use Map. The Master Plan Future General Land Use Map has been amended since it was adopted. The layer was updated/amended on November 25, 2014.'
+p11
+aS'Detroit City Council district boundaries'
+p12
+aS'The center point of of sites owned by Detroit Public Schools.'
+p13
+aS'The track footprint of the Detroit People Mover.'
+p14
+aS'Detroit Police Department (DPD) scout car areas'
+p15
+aS'Data originally sourced from Data Driven Detroit. The list of schools in Detroit was obtained from the Michigan Educational Entity Master, Sept 3, 2014. All schools within the Wayne RESA area were downloaded and geocoded. Data Driven Detroit then geographically selected the schools that are in Detroit and excluded the closed and pending schools. Data Driven Detroit, with help from Excellent Schools Detroit then added fields to classify each school as a k8, k12, or HS. Some special education schools may not be included.'
+p16
+ag1
+aS'(none)'
+p17
+ag1
+aS'The footprint of sites owned by Detroit Public Schools.'
+p18
+aS'Year-end, victim-based, listing of Non-Fatal Shootings offenses\xe2\x80\x94a subset of Aggravated Assaults\xe2\x80\x94that occurred in calendar-year 2015. NOTE: This PRELIMINARY INFORMATION is used on an ongoing basis by the Detroit Police Department for strategic planning and crime analysis. This data is not final and thus is not the crime data that is reported to the FBI Uniform Crime Reporting Program.'
+p19
+aS'Year-end, victim-based, listing of homicide offenses that occurred in calendar-year 2015. NOTE: This PRELIMINARY INFORMATION is used on an ongoing basis by the Detroit Police Department for strategic planning and crime analysis. This data is not final and thus is not the crime data that is reported to the FBI Uniform Crime Reporting Program.'
+p20
+aS'Year-end, victim-based, listing of Carjacking offenses\xe2\x80\x94a subset of Robberies\xe2\x80\x94that occurred in calendar-year 2015. NOTE: This PRELIMINARY INFORMATION is used on an ongoing basis by the Detroit Police Department for strategic planning and crime analysis. This data is not final and thus is not the crime data that is reported to the FBI Uniform Crime Reporting Program.'
+p21
+aS'Bus Stop Activity from April 2012 - Includes boarding and alighting at each individual stop in the system'
+p22
+aS'A map of Detroit Recreation Department recreation centers. Data originally sourced from Data Driven Detroit, now maintained by the City of Detroit Recreation Department.'
+p23
+aS'Parks shapes updated for 2016'
+p24
+ag1
+ag1
+aS'(none)'
+p25
+aS'Secondary Thoroughfare Name Labels'
+p26
+ag1
+ag1
+ag1
+aS'Map showing the zoning district of every parcel in the City of Detroit.'
+p27
+ag1
+aS'Suburban Mobility Authority for Regional Transportation (SMART) bus routes. Data originally provided by Data Driven Detroit in partnership with SMART.'
+p28
+aS'(none)'
+p29
+ag1
+ag1
+aS'Location of all traffic signs'
+p30
+aS'(none)'
+p31
+ag1
+ag1
+aS'Freeway Name Labels (large and small scale)'
+p32
+aS'Detroit Public Library (DPL) locations. Data originally sourced from Data Driven Detroit, in partnership with DPL.'
+p33
+aS'Year-end, victim-based, listing of Non-Fatal Shootings offenses\xe2\x80\x94a subset of Aggravated Assaults\xe2\x80\x94that occurred in calendar-year 2014.\n<br>NOTE: This PRELIMINARY INFORMATION is used on an ongoing basis by the Detroit Police Department for strategic planning and crime analysis. This data is not final and thus is not the crime data that is reported to the FBI Uniform Crime Reporting Program.'
+p34
+aS'(none)'
+p35
+ag1
+aS'Location of all traffic signals'
+p36
+ag1
+ag1
+aS'Detroit Department of Transportation DDOT bus stops. Data originally sourced from Data Driven Detroit in partnership with DDOT.'
+p37
+ag1
+aS'(none)'
+p38
+ag1
+aS'(none)'
+p39
+aS'(none)'
+p40
+aS'(none)'
+p41
+aS'Year-end, victim-based, listing of homicide offenses that occurred in calendar-year 2014.\n<br>NOTE: This PRELIMINARY INFORMATION is used on an ongoing basis by the Detroit Police Department for strategic planning and crime analysis. This data is not final and thus is not the crime data that is reported to the FBI Uniform Crime Reporting Program.'
+p42
+a.
