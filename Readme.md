@@ -1,4 +1,4 @@
-Scripts for automatically cleaning and editing open source geospatial data
+Scripts for automatically completing, cleaning and editing open source geodata
 
 <b>Order of Scripts</b>
 
